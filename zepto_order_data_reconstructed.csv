@@ -1,0 +1,151 @@
+date,product,category,dark_store_zone,orders,average_delivery_time_min,revenue_inr,customer_rating,peak_ordering_window,remaining_stock_units,stock_status
+2026-07-01,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,678,9.8,21696,3.9,11 AM–3 PM,652,In Stock
+2026-07-01,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,383,9.7,7660,4.8,7 AM–11 AM,790,In Stock
+2026-07-01,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,67,8.6,2010,3.8,3 PM–5 PM,110,In Stock
+2026-07-01,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,96,8.0,11520,3.7,3 PM–5 PM,45,In Stock
+2026-07-01,Britannia White Bread,Bakery,Hauz Khas - Delhi,278,10.7,9730,4.3,5 PM–9 PM,347,In Stock
+2026-07-01,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,405,13.8,16200,4.5,7 AM–11 AM,551,In Stock
+2026-07-01,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,298,9.2,17880,4.1,9 PM–12 AM,458,In Stock
+2026-07-01,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,299,8.7,4485,3.4,9 PM–12 AM,759,In Stock
+2026-07-01,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,235,12.4,10575,4.2,11 AM–3 PM,292,In Stock
+2026-07-01,Tata Salt 1kg,Staples,Salt Lake - Kolkata,195,10.0,5460,4.0,5 PM–9 PM,335,In Stock
+2026-07-02,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,698,10.0,22336,4.2,9 PM–12 AM,585,In Stock
+2026-07-02,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,477,10.0,9540,4.1,5 PM–9 PM,716,In Stock
+2026-07-02,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,55,9.2,1650,4.2,5 PM–9 PM,103,In Stock
+2026-07-02,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,103,8.8,12360,3.8,5 PM–9 PM,40,In Stock
+2026-07-02,Britannia White Bread,Bakery,Hauz Khas - Delhi,348,11.2,12180,4.1,9 PM–12 AM,475,In Stock
+2026-07-02,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,405,13.8,16200,3.8,11 AM–3 PM,529,In Stock
+2026-07-02,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,187,10.0,11220,4.4,11 AM–3 PM,339,In Stock
+2026-07-02,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,284,12.0,4260,3.6,5 PM–9 PM,772,In Stock
+2026-07-02,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,232,10.0,10440,4.6,5 PM–9 PM,237,In Stock
+2026-07-02,Tata Salt 1kg,Staples,Salt Lake - Kolkata,201,11.4,5628,4.0,11 AM–3 PM,289,In Stock
+2026-07-03,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,478,9.8,15296,4.0,5 PM–9 PM,500,In Stock
+2026-07-03,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,472,8.9,9440,4.2,5 PM–9 PM,717,In Stock
+2026-07-03,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,66,9.8,1980,3.6,7 AM–11 AM,96,In Stock
+2026-07-03,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,96,8.6,11520,4.1,5 PM–9 PM,36,In Stock
+2026-07-03,Britannia White Bread,Bakery,Hauz Khas - Delhi,394,10.9,13790,4.0,9 PM–12 AM,382,In Stock
+2026-07-03,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,342,13.8,13680,4.2,7 AM–11 AM,492,In Stock
+2026-07-03,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,252,12.0,15120,4.2,11 AM–3 PM,382,In Stock
+2026-07-03,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,232,10.0,3480,4.6,11 AM–3 PM,796,In Stock
+2026-07-03,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,175,10.0,7875,4.0,5 PM–9 PM,235,In Stock
+2026-07-03,Tata Salt 1kg,Staples,Salt Lake - Kolkata,140,10.0,3920,4.0,11 AM–3 PM,247,In Stock
+2026-07-04,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,670,10.0,21440,4.2,9 PM–12 AM,496,In Stock
+2026-07-04,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,417,9.7,8340,4.5,5 PM–9 PM,654,In Stock
+2026-07-04,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,80,10.0,2400,4.6,11 AM–3 PM,89,In Stock
+2026-07-04,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,144,7.6,17280,4.2,5 PM–9 PM,32,In Stock
+2026-07-04,Britannia White Bread,Bakery,Hauz Khas - Delhi,315,11.2,11025,3.8,3 PM–5 PM,413,In Stock
+2026-07-04,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,344,13.8,13760,4.0,5 PM–9 PM,522,In Stock
+2026-07-04,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,293,9.6,17580,4.3,9 PM–12 AM,392,In Stock
+2026-07-04,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,352,11.3,5280,4.4,5 PM–9 PM,780,In Stock
+2026-07-04,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,230,12.0,10350,3.8,5 PM–9 PM,303,In Stock
+2026-07-04,Tata Salt 1kg,Staples,Salt Lake - Kolkata,153,11.4,4284,4.2,5 PM–9 PM,304,In Stock
+2026-07-05,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,525,13.8,16800,4.2,5 PM–9 PM,560,In Stock
+2026-07-05,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,562,13.8,11240,3.8,7 AM–11 AM,617,In Stock
+2026-07-05,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,63,13.8,1890,4.5,11 AM–3 PM,82,In Stock
+2026-07-05,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,151,9.5,18120,4.1,5 PM–9 PM,27,In Stock
+2026-07-05,Britannia White Bread,Bakery,Hauz Khas - Delhi,336,11.7,11760,4.3,5 PM–9 PM,329,In Stock
+2026-07-05,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,431,13.8,17240,4.0,9 PM–12 AM,514,In Stock
+2026-07-05,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,221,9.5,13260,3.9,11 AM–3 PM,311,In Stock
+2026-07-05,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,339,9.8,5085,3.8,7 AM–11 AM,772,In Stock
+2026-07-05,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,238,8.8,10710,3.9,5 PM–9 PM,244,In Stock
+2026-07-05,Tata Salt 1kg,Staples,Salt Lake - Kolkata,204,10.0,5712,3.7,5 PM–9 PM,355,In Stock
+2026-07-06,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,633,7.3,20256,4.6,5 PM–9 PM,485,In Stock
+2026-07-06,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,367,10.0,7340,4.2,3 PM–5 PM,675,In Stock
+2026-07-06,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,82,8.7,2460,4.0,5 PM–9 PM,75,In Stock
+2026-07-06,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,117,10.0,14040,3.8,11 AM–3 PM,22,In Stock
+2026-07-06,Britannia White Bread,Bakery,Hauz Khas - Delhi,377,12.1,13195,3.8,7 AM–11 AM,418,In Stock
+2026-07-06,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,366,13.1,14640,4.2,11 AM–3 PM,481,In Stock
+2026-07-06,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,201,10.0,12060,4.4,7 AM–11 AM,292,In Stock
+2026-07-06,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,306,11.3,4590,3.6,9 PM–12 AM,732,In Stock
+2026-07-06,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,239,9.2,10755,4.3,5 PM–9 PM,307,In Stock
+2026-07-06,Tata Salt 1kg,Staples,Salt Lake - Kolkata,143,11.2,4004,4.3,5 PM–9 PM,301,In Stock
+2026-07-07,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,519,9.8,16608,4.0,5 PM–9 PM,513,In Stock
+2026-07-07,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,412,13.8,8240,4.1,9 PM–12 AM,631,In Stock
+2026-07-07,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,55,10.0,1650,4.2,5 PM–9 PM,68,In Stock
+2026-07-07,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,112,9.9,13440,4.4,7 AM–11 AM,18,Low Stock
+2026-07-07,Britannia White Bread,Bakery,Hauz Khas - Delhi,410,12.0,14350,4.3,5 PM–9 PM,319,In Stock
+2026-07-07,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,317,12.4,12680,4.3,5 PM–9 PM,489,In Stock
+2026-07-07,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,236,11.3,14160,4.7,5 PM–9 PM,313,In Stock
+2026-07-07,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,223,11.6,3345,3.1,3 PM–5 PM,671,In Stock
+2026-07-07,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,213,8.8,9585,3.6,3 PM–5 PM,215,In Stock
+2026-07-07,Tata Salt 1kg,Staples,Salt Lake - Kolkata,202,9.8,5656,4.3,9 PM–12 AM,272,In Stock
+2026-07-08,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,629,10.0,20128,3.6,3 PM–5 PM,545,In Stock
+2026-07-08,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,359,13.8,7180,4.2,11 AM–3 PM,655,In Stock
+2026-07-08,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,85,9.1,2550,3.3,5 PM–9 PM,61,In Stock
+2026-07-08,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,124,10.0,14880,4.4,3 PM–5 PM,14,Low Stock
+2026-07-08,Britannia White Bread,Bakery,Hauz Khas - Delhi,332,11.3,11620,4.5,5 PM–9 PM,313,In Stock
+2026-07-08,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,270,12.2,10800,4.0,5 PM–9 PM,494,In Stock
+2026-07-08,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,303,10.0,18180,3.8,11 AM–3 PM,298,In Stock
+2026-07-08,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,222,10.0,3330,3.9,7 AM–11 AM,737,In Stock
+2026-07-08,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,193,9.7,8685,4.3,5 PM–9 PM,194,In Stock
+2026-07-08,Tata Salt 1kg,Staples,Salt Lake - Kolkata,157,10.0,4396,4.2,11 AM–3 PM,225,In Stock
+2026-07-09,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,649,10.0,20768,4.5,9 PM–12 AM,450,In Stock
+2026-07-09,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,499,10.0,9980,3.8,5 PM–9 PM,655,In Stock
+2026-07-09,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,56,10.0,1680,3.7,5 PM–9 PM,54,In Stock
+2026-07-09,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,146,13.8,17520,4.0,5 PM–9 PM,9,Low Stock
+2026-07-09,Britannia White Bread,Bakery,Hauz Khas - Delhi,272,12.2,9520,4.2,5 PM–9 PM,357,In Stock
+2026-07-09,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,380,11.7,15200,4.5,9 PM–12 AM,433,In Stock
+2026-07-09,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,257,11.9,15420,3.8,9 PM–12 AM,272,In Stock
+2026-07-09,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,331,10.0,4965,4.9,5 PM–9 PM,718,In Stock
+2026-07-09,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,189,10.0,8505,3.9,5 PM–9 PM,239,In Stock
+2026-07-09,Tata Salt 1kg,Staples,Salt Lake - Kolkata,143,10.0,4004,4.3,5 PM–9 PM,230,In Stock
+2026-07-10,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,661,9.7,21152,4.0,9 PM–12 AM,446,In Stock
+2026-07-10,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,341,13.8,6820,3.5,5 PM–9 PM,586,In Stock
+2026-07-10,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,83,10.0,2490,4.0,5 PM–9 PM,47,In Stock
+2026-07-10,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,145,13.8,17400,3.9,9 PM–12 AM,4,Low Stock
+2026-07-10,Britannia White Bread,Bakery,Hauz Khas - Delhi,251,12.3,8785,4.0,5 PM–9 PM,344,In Stock
+2026-07-10,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,298,12.3,11920,3.7,5 PM–9 PM,428,In Stock
+2026-07-10,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,299,11.3,17940,4.6,7 AM–11 AM,274,In Stock
+2026-07-10,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,259,10.0,3885,4.3,5 PM–9 PM,697,In Stock
+2026-07-10,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,195,11.2,8775,4.5,5 PM–9 PM,232,In Stock
+2026-07-10,Tata Salt 1kg,Staples,Salt Lake - Kolkata,210,11.5,5880,4.2,7 AM–11 AM,224,In Stock
+2026-07-11,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,525,8.2,16800,4.5,7 AM–11 AM,492,In Stock
+2026-07-11,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,354,10.0,7080,3.4,9 PM–12 AM,611,In Stock
+2026-07-11,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,95,8.2,2850,3.7,5 PM–9 PM,40,In Stock
+2026-07-11,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,107,10.0,12840,4.3,11 AM–3 PM,0,Out of Stock
+2026-07-11,Britannia White Bread,Bakery,Hauz Khas - Delhi,321,12.6,11235,4.3,5 PM–9 PM,291,In Stock
+2026-07-11,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,462,12.1,18480,4.1,5 PM–9 PM,391,In Stock
+2026-07-11,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,317,11.3,19020,4.0,7 AM–11 AM,279,In Stock
+2026-07-11,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,275,9.5,4125,3.9,5 PM–9 PM,645,In Stock
+2026-07-11,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,244,10.0,10980,3.3,7 AM–11 AM,184,In Stock
+2026-07-11,Tata Salt 1kg,Staples,Salt Lake - Kolkata,162,10.0,4536,4.8,5 PM–9 PM,240,In Stock
+2026-07-12,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,788,10.0,25216,4.2,11 AM–3 PM,458,In Stock
+2026-07-12,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,444,10.0,8880,3.7,11 AM–3 PM,584,In Stock
+2026-07-12,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,98,10.0,2940,4.4,5 PM–9 PM,33,In Stock
+2026-07-12,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,116,13.8,13920,4.2,7 AM–11 AM,0,Out of Stock
+2026-07-12,Britannia White Bread,Bakery,Hauz Khas - Delhi,303,13.1,10605,4.0,11 AM–3 PM,293,In Stock
+2026-07-12,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,330,12.4,13200,5.0,7 AM–11 AM,416,In Stock
+2026-07-12,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,271,10.0,16260,4.6,5 PM–9 PM,243,In Stock
+2026-07-12,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,304,10.0,4560,4.3,11 AM–3 PM,643,In Stock
+2026-07-12,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,268,9.0,12060,3.8,5 PM–9 PM,173,In Stock
+2026-07-12,Tata Salt 1kg,Staples,Salt Lake - Kolkata,174,11.2,4872,4.1,9 PM–12 AM,229,In Stock
+2026-07-13,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,504,13.8,16128,4.1,5 PM–9 PM,433,In Stock
+2026-07-13,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,510,9.8,10200,3.9,7 AM–11 AM,593,In Stock
+2026-07-13,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,81,9.5,2430,4.8,7 AM–11 AM,26,In Stock
+2026-07-13,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,107,10.0,12840,3.6,11 AM–3 PM,0,Out of Stock
+2026-07-13,Britannia White Bread,Bakery,Hauz Khas - Delhi,361,12.1,12635,4.4,9 PM–12 AM,289,In Stock
+2026-07-13,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,275,13.2,11000,4.2,3 PM–5 PM,394,In Stock
+2026-07-13,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,281,13.0,16860,3.9,5 PM–9 PM,225,In Stock
+2026-07-13,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,295,10.0,4425,3.6,5 PM–9 PM,649,In Stock
+2026-07-13,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,197,8.1,8865,3.5,7 AM–11 AM,165,In Stock
+2026-07-13,Tata Salt 1kg,Staples,Salt Lake - Kolkata,144,10.0,4032,4.0,5 PM–9 PM,213,In Stock
+2026-07-14,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,448,8.4,14336,4.2,3 PM–5 PM,437,In Stock
+2026-07-14,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,490,10.0,9800,4.0,3 PM–5 PM,568,In Stock
+2026-07-14,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,80,9.6,2400,3.7,11 AM–3 PM,19,Low Stock
+2026-07-14,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,108,9.3,12960,4.1,11 AM–3 PM,0,Out of Stock
+2026-07-14,Britannia White Bread,Bakery,Hauz Khas - Delhi,269,12.7,9415,3.5,11 AM–3 PM,276,In Stock
+2026-07-14,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,395,13.0,15800,4.6,5 PM–9 PM,380,In Stock
+2026-07-14,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,186,10.0,11160,4.6,5 PM–9 PM,220,In Stock
+2026-07-14,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,335,10.0,5025,4.0,11 AM–3 PM,625,In Stock
+2026-07-14,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,177,10.0,7965,3.8,5 PM–9 PM,162,In Stock
+2026-07-14,Tata Salt 1kg,Staples,Salt Lake - Kolkata,140,10.0,3920,3.8,5 PM–9 PM,198,In Stock
+2026-07-15,Amul Toned Milk 500ml,Dairy,Andheri West - Mumbai,599,10.0,19168,4.8,9 PM–12 AM,420,In Stock
+2026-07-15,Lay's Classic Chips 52g,Snacks,Andheri West - Mumbai,460,9.3,9200,4.8,5 PM–9 PM,560,In Stock
+2026-07-15,Chocolate Cookies,Snacks,Gomti Nagar - Lucknow,75,9.0,2250,3.8,5 PM–9 PM,12,Low Stock
+2026-07-15,Surf Excel Detergent,Household,Gomti Nagar - Lucknow,128,9.5,15360,4.2,9 PM–12 AM,0,Out of Stock
+2026-07-15,Britannia White Bread,Bakery,Hauz Khas - Delhi,333,13.2,11655,4.0,9 PM–12 AM,260,In Stock
+2026-07-15,Coca-Cola 750ml,Beverages,Hauz Khas - Delhi,280,12.8,11200,4.1,5 PM–9 PM,370,In Stock
+2026-07-15,Eggs 6-Pack,Dairy,Indiranagar - Bengaluru,198,8.2,11880,4.1,5 PM–9 PM,210,In Stock
+2026-07-15,Maggi 2-Minute Noodles,Instant Food,Indiranagar - Bengaluru,244,11.5,3660,4.1,9 PM–12 AM,620,In Stock
+2026-07-15,Bananas 6-Pack,Fruits & Vegetables,Salt Lake - Kolkata,175,10.0,7875,4.2,11 AM–3 PM,150,In Stock
+2026-07-15,Tata Salt 1kg,Staples,Salt Lake - Kolkata,132,11.5,3696,3.7,5 PM–9 PM,180,In Stock
